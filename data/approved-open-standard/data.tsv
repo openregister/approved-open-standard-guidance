@@ -1,0 +1,20 @@
+approved-open-standard	name	short-name	website	start-date	end-date
+1001		ISO 8601:2004	https://www.iso.org/standard/40874.html	2018-01-31	
+1002	Open Contracting Data Standard (OCDS)	OCDS V 1.1	http://standard.open-contracting.org/latest/en/	2018-01-31	
+1003	International Aid Transparency Initiative (IATI)	IATI v2.02	http://iatistandard.org/202/reference/	2018-01-31	
+1004	schema.org JobPosting	JobPosting	https://schema.org/JobPosting	2018-01-31	
+1005	multi agency incident transfer protocol (MAIT)	Multi Agency Incident Transfer Version 0.2.2	http://mait.org.uk/	2018-01-31	
+1006	European Terrestrial Reference System 1989	ETRS89	http://etrs89.ensg.ign.fr/	2018-01-31	
+1007	World Geodetic System 1984	WGS 84	https://www.nga.mil/ProductsServices/GeodesyandGeophysics/Pages/WorldGeodeticSystem.aspx	2018-01-31	
+1008	ISO 3166-1:2013		http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=63545	2018-01-31	
+1009	ISO 639-1:2002		http://www.iso.org/iso/catalogue_detail?csnumber=22109	2018-01-31	
+1010	Unicode 6.2		http://www.unicode.org/versions/Unicode6.2.0/	2018-01-31	
+1011	UTF-8		http://www.rfc-base.org/rfc-3629.html	2018-01-31	
+1012	HTTP 1.1		http://tools.ietf.org/html/rfc2616	2018-01-31	
+1013	URL		http://tools.ietf.org/html/rfc3986	2018-01-31	
+1014	Open Document Format	ODF 1.2	http://docs.oasis-open.org/office/v1.2/OpenDocument-v1.2.html	2018-01-31	
+1015	HTML5	HTML5	http://www.w3.org/html/wg/drafts/html/master/	2018-01-31	
+1016	ISO/IEC 19005-1:2005	PDF/A-1	http://www.iso.org/iso/catalogue_detail?csnumber=38920	2018-01-31	
+1017	ISO/IEC 19005-2:2011	PDF/A-2	http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=50655	2018-01-31	
+1018	RFC6350 vCard August 2011.		http://standards.data.gov.uk/standard/rfc6350-vcard-august-2011	2018-01-31	
+1019	RFC5545 iCalendar September 2009.		http://standards.data.gov.uk/standard/rfc5545-icalendar-september-2009	2018-01-31	
