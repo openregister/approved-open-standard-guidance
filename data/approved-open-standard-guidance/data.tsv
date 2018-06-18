@@ -1,15 +1,15 @@
 approved-open-standard-guidance	name	approved-open-standards	website	start-date	end-date
-101	Date-times and time-stamps	1001	https://www.gov.uk/government/publications/open-standards-for-government/date-times-and-time-stamps-standard	2018-01-31	
-102	Open contracting data	1002	https://www.gov.uk/government/publications/open-standards-for-government/open-contracting-data-standard-profile	2018-01-31	
-103	International development data	1003	https://www.gov.uk/government/publications/open-standards-for-government/open-standard-for-international-development-data	2018-01-31	
-104	Publishing vacancies	1004	https://www.gov.uk/government/publications/open-standards-for-government/publishing-vacancies-online-standards-profile--2	2018-01-31	
-105	Multi agency incident transfer	1005	https://www.gov.uk/government/publications/open-standards-for-government/multi-agency-incident-transfer	2018-01-31	
-106	Exchange of location point	1006;1007	https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point	2018-01-31	
-107	Country codes	1008	https://www.gov.uk/government/publications/open-standards-for-government/country-codes	2018-01-31	
-108	Language tags	1009	https://www.gov.uk/government/publications/open-standards-for-government/language-tags	2018-01-31	
-109	Cross platform character encoding profile	1010;1011	https://www.gov.uk/government/publications/open-standards-for-government/cross-platform-character-encoding-profile	2018-01-31	
-110	Persistent resolvable identifiers	1012;1013	https://www.gov.uk/government/publications/open-standards-for-government/persistent-resolvable-identifiers	2018-01-31	
-111	Sharing or collaborating with government documents	1014	https://www.gov.uk/government/publications/open-standards-for-government/sharing-or-collaborating-with-government-documents	2018-01-31	
-112	Viewing government documents	1015;1016;1017	https://www.gov.uk/government/publications/open-standards-for-government/viewing-government-documents	2018-01-31	
-113	Exchange of contact information	1018	https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-contact-information	2018-01-31	
-114	Exchange of calendar events	1019	https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-calendar-events	2018-01-31	
+101	Date-times and time-stamps	approved-open-standard:1001	https://www.gov.uk/government/publications/open-standards-for-government/date-times-and-time-stamps-standard	2018-01-31	
+102	Open contracting data	approved-open-standard:1002	https://www.gov.uk/government/publications/open-standards-for-government/open-contracting-data-standard-profile	2018-01-31	
+103	International development data	approved-open-standard:1003	https://www.gov.uk/government/publications/open-standards-for-government/open-standard-for-international-development-data	2018-01-31	
+104	Publishing vacancies	approved-open-standard:1004	https://www.gov.uk/government/publications/open-standards-for-government/publishing-vacancies-online-standards-profile--2	2018-01-31	
+105	Multi agency incident transfer	approved-open-standard:1005	https://www.gov.uk/government/publications/open-standards-for-government/multi-agency-incident-transfer	2018-01-31	
+106	Exchange of location point	approved-open-standard:1006;approved-open-standard:1007	https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point	2018-01-31	
+107	Country codes	approved-open-standard:1008	https://www.gov.uk/government/publications/open-standards-for-government/country-codes	2018-01-31	
+108	Language tags	approved-open-standard:1009	https://www.gov.uk/government/publications/open-standards-for-government/language-tags	2018-01-31	
+109	Cross platform character encoding profile	approved-open-standard:1010;approved-open-standard:1011	https://www.gov.uk/government/publications/open-standards-for-government/cross-platform-character-encoding-profile	2018-01-31	
+110	Persistent resolvable identifiers	approved-open-standard:1012;approved-open-standard:1013	https://www.gov.uk/government/publications/open-standards-for-government/persistent-resolvable-identifiers	2018-01-31	
+111	Sharing or collaborating with government documents	approved-open-standard:1014	https://www.gov.uk/government/publications/open-standards-for-government/sharing-or-collaborating-with-government-documents	2018-01-31	
+112	Viewing government documents	approved-open-standard:1015;approved-open-standard:1016;approved-open-standard:1017	https://www.gov.uk/government/publications/open-standards-for-government/viewing-government-documents	2018-01-31	
+113	Exchange of contact information	approved-open-standard:1018	https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-contact-information	2018-01-31	
+114	Exchange of calendar events	approved-open-standard:1019	https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-calendar-events	2018-01-31	
