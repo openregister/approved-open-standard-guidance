@@ -16,5 +16,5 @@ approved-open-standard	name	short-name	website	start-date	end-date
 1015	HTML5	HTML5	http://www.w3.org/html/wg/drafts/html/master/	2018-01-31	
 1016	ISO/IEC 19005-1:2005	PDF/A-1	http://www.iso.org/iso/catalogue_detail?csnumber=38920	2018-01-31	
 1017	ISO/IEC 19005-2:2011	PDF/A-2	http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=50655	2018-01-31	
-1018	RFC6350 vCard August 2011.	vCard	http://standards.data.gov.uk/standard/rfc6350-vcard-august-2011	2018-01-31	
-1019	RFC5545 iCalendar September 2009.	iCal	http://standards.data.gov.uk/standard/rfc5545-icalendar-september-2009	2018-01-31	
+1018	RFC6350 vCard August 2011.	vCard	https://tools.ietf.org/html/rfc6350 	2018-01-31	
+1019	RFC5545 iCalendar September 2009.	iCal	https://tools.ietf.org/html/rfc5545	2018-01-31	
